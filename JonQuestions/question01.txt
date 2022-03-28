@@ -1,0 +1,6 @@
+Which command will bring up the manual for the 'cat' command?
+a. man cat 
+b. cat man
+c. manual cat
+d. cat manual
+e. cd man, cd cat
