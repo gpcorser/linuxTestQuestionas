@@ -1,0 +1,6 @@
+What Linux command navigates to the parent directory?
+cd ..
+cd .
+cd ./
+cd ~
+cd /
