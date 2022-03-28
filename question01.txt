@@ -1,0 +1,6 @@
+In Linux, what does the tilde symbol (~) represent? 
+the home directory
+the root directory
+a search wildcard
+the parent directory
+the start of a search string
