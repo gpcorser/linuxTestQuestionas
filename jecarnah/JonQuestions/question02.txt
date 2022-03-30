@@ -1,0 +1,6 @@
+What is the command to edit a file?
+vim FILENAME
+edit FILENAME
+cat FILENAME
+man FILENAME
+cd FILENAME

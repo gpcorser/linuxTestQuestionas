@@ -1,0 +1,4 @@
+T/F You must be inside of a subdirectory in order to use the command "ls".
+EX: Using "ls SUBDIRECTORY" will output an error.
+False
+True

@@ -1,0 +1,3 @@
+T/F: You are able to see your password when you input it into Linux.
+False
+True
