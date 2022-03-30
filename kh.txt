@@ -1,0 +1,7 @@
+what command nagivates to a sub directory?
+cd
+cs
+man
+pico
+
+
