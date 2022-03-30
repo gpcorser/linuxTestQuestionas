@@ -1,0 +1,7 @@
+Which command is used to pull files from git hub?
+
+git pull
+git push
+cd
+cd pull
+
