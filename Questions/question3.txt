@@ -1,0 +1,6 @@
+What command is used to copy files?
+
+cp
+rm
+cd ..
+cat
