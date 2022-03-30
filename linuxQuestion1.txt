@@ -1,0 +1,5 @@
+What does pwd command do?
+Changes directory
+Prints the current/working directory
+Takes you to your home directory
+Nothing

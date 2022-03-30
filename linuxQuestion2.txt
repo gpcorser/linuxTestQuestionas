@@ -1,0 +1,6 @@
+What command allows us to see the contents of a file?
+cat
+pwd
+cd
+ls
+

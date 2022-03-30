@@ -1,0 +1,5 @@
+What does mkdir command do?
+Creates a new directory
+Deletes a directory
+Renames a directory
+Changes your directory

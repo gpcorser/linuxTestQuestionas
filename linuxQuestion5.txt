@@ -1,0 +1,5 @@
+What command do you type to leave Linux?
+Leave
+Quit
+Exit
+Escape
