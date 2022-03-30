@@ -1,0 +1,5 @@
+Which of the following will display the contents of "poem.txt" in the command line interface?
+A) cat poem.txt
+B) man poem.txt
+C) ls poem.txt
+D) touch poem.txt
