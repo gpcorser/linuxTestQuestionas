@@ -1,0 +1,5 @@
+What does the mv command do
+Make directory
+Move file or directory
+logout
+Make file
