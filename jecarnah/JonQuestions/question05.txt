@@ -1,0 +1,6 @@
+Which command will save and exit a file?
+:wq!
+:q
+:w
+Pressing the "esc" key
+Exiting Putty
