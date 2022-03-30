@@ -1,0 +1,6 @@
+What command is used to create a subdirectory?
+
+mkdir
+cd
+cd /
+cd ..

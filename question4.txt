@@ -1,0 +1,6 @@
+Which command id used to return to the root directory?
+
+/
+cd
+cd home
+cd ..
