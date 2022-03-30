@@ -1,6 +1,0 @@
-What Linux command displays the current working directory?
-pwd
-ls
-man
-apropos
-cd
