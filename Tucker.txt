@@ -1,0 +1,5 @@
+what command will allows you to change directories on linux?
+ls
+cd
+pwd
+cat
