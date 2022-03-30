@@ -1,0 +1,6 @@
+What does the command cat do?
+View context of a file
+Shows a cat picture
+Nothing
+Creates a file
+Edits a file
