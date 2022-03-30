@@ -1,0 +1,5 @@
+Which of these commands displays the current working directory?
+A) pwd
+B) cd ~
+C) ls -d
+D) cat ~
