@@ -1,6 +1,0 @@
-What does the linux command "man man" show?
-A) The manual page for the command "man"
-B) A short description of all commands containing "man"
-C) The command returns an error
-D) A short description of the first command containing "man"
-

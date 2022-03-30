@@ -1,5 +1,0 @@
-In linux, how would you delete the directory "poems", including all of its contents?
-A) rm -r poems
-B) rmdir poems
-C) mkdir poems
-D) mkdir -r poems
