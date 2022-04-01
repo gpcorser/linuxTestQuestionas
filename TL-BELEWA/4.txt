@@ -1,0 +1,5 @@
+What does the exit command do?
+create a file
+create a user
+exit the session
+rename a file

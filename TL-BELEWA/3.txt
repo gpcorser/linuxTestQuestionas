@@ -1,0 +1,5 @@
+what dose ls do
+list the current directory
+make a directory
+make a file
+logout

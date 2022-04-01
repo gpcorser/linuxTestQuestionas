@@ -1,0 +1,6 @@
+What does the mkdir command do?
+
+Create a file
+Create a directory
+Open a directory
+Logout the current user

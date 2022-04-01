@@ -1,0 +1,5 @@
+what does the cd do
+it create file
+move file 
+logout
+change directory
